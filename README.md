@@ -1,13 +1,31 @@
-# Invoice Automation SaaS
+<div align="center">
 
-[🇪🇸 Español](README.es.md) | [🇵🇹 Português](README.pt.md)
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=200&section=header&text=Invoice%20Automation&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=SaaS%20Platform%20%7C%20Financial%20Management%20%7C%20Open%20Source&descSize=18&descAlignY=55"/>
 
-<p align="center">
+<!-- BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/Type-Desktop_SaaS-blueviolet?style=for-the-badge" alt="Type: Desktop SaaS"/>
   <img src="https://img.shields.io/badge/Tauri_v2-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri" />
   <img src="https://img.shields.io/badge/Rust-Backend-000000?style=for-the-badge&logo=rust" alt="Rust" />
   <img src="https://img.shields.io/badge/React_19-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" />
   <img src="https://img.shields.io/badge/SQLite-DB-003B57?style=for-the-badge&logo=sqlite" alt="SQLite" />
 </p>
+
+<!-- LANGUAGE SWITCHER -->
+<p>
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸_English-Selected-blue?style=flat-square" alt="English"/></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/🇪🇸_Español-Available-lightgrey?style=flat-square" alt="Español"/></a>
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/🇧🇷_Português-Available-lightgrey?style=flat-square" alt="Português"/></a>
+</p>
+
+</div>
+
+---
+
+**An offline-first desktop application engineered for high-performance invoice generation and financial management using Tauri v2, Rust, and React 19.**
+
+---
 
 ## 🏛️ Project Abstract
 
@@ -114,3 +132,13 @@ This repository enforces strict engineering standards:
 ## 📄 License & Contributing
 
 This project is open for inspection under the [Business Source License 1.1](./LICENSE). Commercial deployment or distribution of compiled binaries requires specialized licensing. View `.agent/rules/PROTOCOL_ZERO.md` for our internal guidelines.
+
+---
+
+<div align="center">
+
+_Architected by **Luis Sambrano**_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,11&height=100&section=footer"/>
+
+</div>
